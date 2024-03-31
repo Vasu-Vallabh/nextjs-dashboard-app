@@ -5,3 +5,6 @@
 /httpRequests/
 # GitHub Copilot persisted chat sessions
 /copilot/chatSessions
+# developer's local environment and contains information about the modules in a project
+.idea/modules.xml
+.idea/nextjs-dashboard.iml
