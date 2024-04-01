@@ -34,3 +34,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# developer's local environment and contains information about the modules in a project
+.idea/modules.xml
+.idea/nextjs-dashboard.iml
